@@ -21,3 +21,5 @@ No Test Given
 ## Questions
 If you are interested in contacting me my GitHub profile is [Trgrf](https://github.com/Trgrf). <br />
 My email is [adamgonzalez1000@gmail.com](mailto:adamgonzalez1000@gmail.com).
+## Heroku
+This is a link to my Tech Blog deployed through Heroku https://protected-eyrie-08905.herokuapp.com/
